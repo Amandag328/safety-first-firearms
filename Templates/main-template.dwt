@@ -16,10 +16,21 @@
 		</tr>
 		<tr>
 			<td width="469">
+				<p><a href="../index.html">Homepage</a></p>
+				<p><a href="../comapny-info.html">Company Info</a></p>
+				<p>Featured Items</p>
 				<ul>
-					<li>Homepage</li>
-					<li>Featured Items</li>
-					<li>Range Locations</li>
+					<li><a href="../featured-items/beretta.html">Beretta 92FS (9MM)</a></li>
+					<li><a href="../featured-items/sig-sauer.html">Sig Sauer P229 (9MM)</a></li>
+					<li><a href="../featured-items/heckler-koch.html">Heckler &amp; Koch P30L (9MM)</a></li>
+					<li><a href="../featured-items/walther.html">Walther PPQ M2</a></li>
+					</ul>
+				<p>Range Locations</p>
+				<ul>
+					<li><a href="../range-locations/east-coast.html">East Coast</a></li>
+					<li><a href="../range-locations/west-coast.html">West Coast</a></li>
+					<li><a href="../range-locations/new-england-area.html">New England Area</a></li>
+					<li><a href="../range-locations/midwest.html">Midwest</a>			</li>
 				</ul>
 			</td>
 			<td width="469"><!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable --></td>
