@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Untitled Document</title>
+<title>Safety First Firearms</title>
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
@@ -15,7 +15,7 @@
 			<td colspan="2"><img src="../images/banner.jpg" width="950" height="150" alt="banner" /></td>
 		</tr>
 		<tr>
-			<td width="469">
+			<td width="269">
 				<p><a href="../index.html">Homepage</a></p>
 				<p><a href="../comapny-info.html">Company Info</a></p>
 				<p>Featured Items</p>
@@ -33,7 +33,7 @@
 					<li><a href="../range-locations/midwest.html">Midwest</a>			</li>
 				</ul>
 			</td>
-			<td width="469"><!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable --></td>
+			<td width="677"><!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable --></td>
 		</tr>
 		<tr>
 			<td colspan="2"><img src="../images/footer.jpg" width="950" height="150" alt="footer" /></td>
